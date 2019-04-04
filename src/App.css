@@ -31,3 +31,40 @@
     transform: rotate(360deg);
   }
 }
+
+/*New Code*/
+
+.wrapper {
+  border: 10px solid rgb(107, 161, 107);
+  height: 420px;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  width: 80%;
+  margin: 0 auto;
+}
+
+.box {
+  height: 50px;
+  width: 15%;
+  margin: 0 auto;
+}
+
+input {
+  margin: 0px 10px 0px 80px;
+}
+
+.btn {
+  background-color: lightseagreen;
+  color: navy;
+  padding: 5px;
+  margin: 10px;
+}
+.ques {
+  border: 2px solid rgb(52, 88, 52);
+  height: 300px;
+  text-align: center;
+  padding: 20px;
+  background-color: lightseagreen;
+  color: navy;
+}
